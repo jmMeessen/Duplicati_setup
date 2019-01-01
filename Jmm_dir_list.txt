@@ -1,0 +1,78 @@
+8.0K	./.packer.d
+3.0M	./.eclipse
+ 44K	./.config
+ 12G	./Music
+9.0M	./.josm
+  0B	./.junique
+  0B	./.fop
+920K	./duplicati
+ 13G	./.docker
+720K	./.gnupg_pre_2.1
+172K	./.x2go
+4.0K	./.notary
+3.7M	./tools
+4.0K	./.vim
+1.0M	./.gnupg
+ 49G	./VirtualBox VMs
+8.0K	./.ideaquicknotes
+ 44K	./.tooling
+5.7G	./.vagrant.d
+ 24K	./.subversion
+9.8M	./golang
+ 95M	./.IntelliJIdea15
+1.2M	./rpi-voting-app
+ 32M	./.sonar
+157M	./.loadui
+216K	./Data_old
+376K	./.freeplane
+1.1M	./.local
+ 16K	./.IntelliJIdea14
+ 19G	./Pictures
+2.2M	./.fontconfig
+113M	./.atom
+212K	./.jmc
+5.8G	./BookFactory
+ 13G	./Desktop
+ 25G	./Library
+1004K	./.bash-git-prompt
+ 20K	./.oracle_jre_usage
+967M	./dockerImages
+ 36K	./.zenmap
+8.0K	./.android
+4.0K	./.cups
+ 32K	./openVPN
+ 64K	./.bash_sessions
+4.0K	./.opscore
+ 96K	./.dia
+  0B	./Public
+4.0K	./UMLet
+111M	./.dropbox
+160K	./SoapUI-Tutorials
+ 16K	./.x2goclient
+ 52K	./.dia-etc
+  0B	./Bibliothèque calibre
+7.0G	./work
+160K	./.ansible
+ 60K	./.ssh
+102G	./Movies
+193M	./Applications
+222M	./.gradle
+3.0G	./Dropbox
+2.6G	./.Trash
+ 16K	./.IdeaIC14
+2.3M	./.npm
+8.0K	./.terraform.d
+1.9G	./Documents
+4.0K	./.mono
+294M	./.vscode
+195M	./.m2
+1.9M	./.gem
+ 11M	./cloudbees
+948K	./data
+4.0K	./.dbus-keyrings
+ 24G	./Downloads
+8.3M	./.cache
+4.0K	./.aws
+ 12K	./.dropbox-master
+4.0K	./.atlassian
+285G	.
