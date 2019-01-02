@@ -1,0 +1,51 @@
+8.0K	./.packer.d
+8.0K	./.config
+116K	./duplicati
+8.0K	./.docker
+  0B	./.gnupg_pre_2.1
+728K	./.gnupg
+3.7G	./.vagrant.d
+ 84K	./.freeplane
+4.0K	./.local
+ 41M	./Pictures
+ 44K	./Samsung
+ 10M	./Desktop
+  0B	./.opscore
+  0B	./Public
+ 60K	./.ansible
+ 64K	./.ssh
+8.0K	./Applications
+3.0G	./Dropbox
+8.0K	./.terraform.d
+6.9M	./Documents
+737M	./Downloads
+ 12K	./.aws
+  0B	./packer
+
+Exclude
+  0B	./.android
+4.8M	./.kube
+ 26M	./.dropbox
+254M	./.tnt_home
+ 47G	./VirtualBox VMs
+7.9G	./Google Drive
+ 18M	./.npm
+1.5M	./.cache
+4.0K	./.cups
+4.5G	./.minikube
+ 16K	./.oracle_jre_usage
+ 31G	./Library
+ 15G	./work
+110G	./.Trash
+303M	./.jenkins
+234M	./.vscode
+300K	./.zoomus
+
+Nuanced/to check
+135M	./CloudBees
+439M	./.m2
+
+
+Later
+ 31G	./Movies
+ 13G	./Music
