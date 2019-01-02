@@ -4,7 +4,6 @@
 8.0K	./.docker
   0B	./.gnupg_pre_2.1
 728K	./.gnupg
-3.7G	./.vagrant.d
  84K	./.freeplane
 4.0K	./.local
  41M	./Pictures
@@ -23,6 +22,7 @@
   0B	./packer
 
 Exclude
+3.7G	./.vagrant.d
   0B	./.android
 4.8M	./.kube
  26M	./.dropbox
@@ -40,10 +40,8 @@ Exclude
 303M	./.jenkins
 234M	./.vscode
 300K	./.zoomus
-
-Nuanced/to check
-135M	./CloudBees
-439M	./.m2
+439M	./.m2/repository
+135M	./CloudBees/Support
 
 
 Later
