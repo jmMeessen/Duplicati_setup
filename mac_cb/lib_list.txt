@@ -1,0 +1,255 @@
+/Library/
+├── Application Support
+│   ├── App Store
+│   ├── Apple
+│   ├── ApplePushService
+│   ├── Chromium
+│   ├── CrashPlan
+│   ├── CrashReporter
+│   ├── GarageBand
+│   ├── Google
+│   ├── Logic
+│   ├── Oracle
+│   ├── ProApps
+│   ├── Script Editor
+│   ├── Symantec
+│   ├── Tunnelblick
+│   ├── VirtualBox
+│   ├── com.apple.TCC
+│   └── iLifeMediaBrowser
+├── Audio
+│   ├── Apple Loops
+│   ├── Apple Loops Index
+│   ├── MIDI Configurations
+│   ├── MIDI Devices
+│   ├── MIDI Drivers
+│   ├── MIDI Patch Names
+│   ├── Plug-Ins
+│   └── Sounds
+├── Caches
+│   ├── ColorSync
+│   ├── Desktop Pictures
+│   ├── com.apple.cloudkit
+│   └── com.apple.iconservices.store
+├── ColorPickers
+├── ColorSync
+│   ├── Profiles
+│   └── Scripts -> ../Scripts/ColorSync
+├── Components
+├── Compositions
+├── Contextual Menu Items
+├── CoreAnalytics
+├── CoreMediaIO
+│   └── Plug-Ins
+├── Desktop Pictures
+│   └── Solid Colors
+├── Developer
+│   └── CommandLineTools
+├── DirectoryServices
+│   └── PlugIns
+├── Documentation
+│   ├── Help
+│   └── License.lpdf
+├── DropboxHelperTools
+│   └── Dropbox_u501
+├── Extensions
+│   ├── ACS6x.kext
+│   ├── ATTOCelerityFC8.kext
+│   ├── ATTOExpressSASHBA2.kext
+│   ├── ATTOExpressSASRAID2.kext
+│   ├── AppleRTL815XComposite109.kext
+│   ├── AppleRTL815XEthernet109.kext
+│   ├── ArcMSR.kext
+│   ├── CalDigitHDProDrv.kext
+│   ├── HighPointIOP.kext
+│   ├── HighPointRR.kext
+│   ├── NortonForMac.kext
+│   ├── PromiseSTEX.kext
+│   ├── SoftRAID.kext
+│   ├── SymIPS.kext
+│   ├── SymInternetSecurity.kext
+│   └── SymXIPS.kext
+├── Filesystems
+│   ├── NetFSPlugins
+│   └── osxfuse.fs
+├── Fonts
+├── Frameworks
+│   ├── NyxAudioAnalysis.framework -> /System/Library/PrivateFrameworks/NyxAudioAnalysis.framework
+│   ├── OSXFUSE.framework
+│   ├── PluginManager.framework
+│   └── iTunesLibrary.framework -> /System/Library/Frameworks/iTunesLibrary.framework
+├── GPUBundles
+├── Google
+│   └── Chrome
+├── Graphics
+│   └── Quartz Composer Plug-Ins
+├── Image Capture
+│   ├── Automatic Tasks
+│   ├── Devices
+│   ├── Support
+│   ├── Supports
+│   ├── TWAIN Data Sources
+│   └── Tools
+├── Input Methods
+├── Internet Plug-Ins
+│   ├── Disabled Plug-Ins
+│   ├── JavaAppletPlugin.plugin
+│   ├── SkypeForBusinessPlugin-15.8.bundle
+│   └── nplastpass.plugin
+├── Java
+│   ├── Extensions
+│   └── JavaVirtualMachines
+├── Keyboard Layouts
+├── Keychains
+│   ├── SupplementalsAssets
+│   └── crls
+├── LaunchAgents
+├── LaunchDaemons
+├── Logs
+│   ├── CrashReporter
+│   ├── DiagnosticReports
+│   ├── Symantec
+│   └── Xsan
+├── Mail
+│   └── Bundles
+├── MessageTracer
+├── Messages
+│   └── PlugIns
+├── Modem Scripts
+│   ├── Bluetooth LAN Access.ccl
+│   ├── Farallon LAN:Modem PC Card.ccl
+│   ├── Farallon Netopia 56K MLPPP.ccl
+│   ├── Farallon Netopia 56K.ccl
+│   ├── Farallon Netopia 64K MLPPP.ccl
+│   ├── Farallon Netopia 64K.ccl
+│   ├── GV flex:V.90.ccl
+│   ├── GV x2:V.90.ccl
+│   ├── Generic Dialup.ccl
+│   ├── Generic GPRS.ccl
+│   ├── Hayes Accura 56K.ccl
+│   ├── Motorola BitSURFR 56K MLPPP.ccl
+│   ├── Motorola BitSURFR 56K.ccl
+│   ├── Motorola BitSURFR 64K MLPPP.ccl
+│   ├── Motorola BitSURFR 64K.ccl
+│   ├── MultiTech MT5600.ccl
+│   ├── MultiTech MT5634.ccl
+│   ├── MultiTech MTA128NT ML-PPP w:DBA.ccl
+│   ├── MultiTech MTA128NT ML-PPP.ccl
+│   ├── MultiTech MTA128NT PPP.ccl
+│   ├── MultiTech MTA128ST ML-PPP w:DBA.ccl
+│   ├── MultiTech MTA128ST ML-PPP.ccl
+│   ├── MultiTech MTA128ST PPP.ccl
+│   ├── Null Modem 115200.ccl
+│   ├── Null Modem 19200.ccl
+│   ├── Null Modem 57600.ccl
+│   ├── Null Modem 9600.ccl
+│   ├── Sprint PCS Vision.ccl
+│   ├── Supra V.90.ccl
+│   ├── Vodafone VC701SI.ccl
+│   ├── WWAN.ccl
+│   ├── Zoom Bluetooth Modem (v.34).ccl
+│   ├── Zoom Bluetooth Modem (v.90).ccl
+│   ├── Zoom Universal (115k).ccl
+│   └── Zoom V-Series.ccl
+├── OpenDirectory
+│   ├── Mappings
+│   ├── Modules
+│   └── Templates
+├── PDF Services
+│   ├── Add to Apple Books -> /Applications/Books.app
+│   ├── Save to Web Receipts.pdfworkflow
+│   ├── Save to iCloud Drive.pdfworkflow
+│   ├── Send in Mail -> /Applications/Mail.app
+│   └── Send via Messages -> /Applications/Messages.app
+├── Perl
+│   └── 5.18
+├── PreferencePanes
+│   └── JavaControlPanel.prefPane -> /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/deploy/JavaControlPanel.prefPane
+├── Preferences
+│   ├── Audio
+│   ├── DirectoryService
+│   ├── Logging
+│   ├── OpenDirectory
+│   ├── SystemConfiguration
+│   └── Xsan
+├── Printers
+│   ├── Brother
+│   ├── Canon
+│   ├── EPSON
+│   ├── Icons
+│   └── PPDs
+├── PrivilegedHelperTools
+├── Python
+│   ├── 2.6
+│   └── 2.7
+├── QuickLook
+│   ├── iBooksAuthor.qlgenerator
+│   └── iWork.qlgenerator
+├── QuickTime
+│   ├── AppleIntermediateCodec.component
+│   └── AppleMPEG2Codec.component
+├── Receipts
+│   └── db
+├── Ruby
+│   ├── Gems
+│   └── Site
+├── Sandbox
+│   └── Profiles
+├── Screen Savers
+│   └── Default Collections
+├── ScriptingAdditions
+├── Scripts
+│   ├── ColorSync
+│   ├── Folder Action Scripts
+│   ├── Folder Actions
+│   ├── Font Book
+│   ├── Printing Scripts
+│   ├── Script Editor Scripts
+│   ├── UI Element Scripts
+│   └── VoiceOver
+├── Security
+│   └── SecurityAgentPlugins
+├── Services
+│   └── Norton for Mac.service
+├── Speech
+│   └── Synthesizers
+├── Spotlight
+│   ├── iBooksAuthor.mdimporter
+│   └── iWork.mdimporter
+├── StagedExtensions
+│   └── Library
+├── StartupItems
+├── SystemMigration
+│   ├── History
+│   └── Queue
+├── SystemProfiler
+├── Updates
+├── User Pictures
+│   ├── Animals
+│   ├── Flowers
+│   ├── Fun
+│   ├── Instruments
+│   ├── Nature
+│   └── Sports
+├── Video
+│   ├── Plug-Ins
+│   └── Professional Video Workflow Plug-Ins
+├── WebServer
+│   ├── CGI-Executables
+│   ├── Documents
+│   └── share
+└── Widgets
+    ├── Calculator.wdgt
+    ├── Calendar.wdgt
+    ├── Contacts.wdgt
+    ├── Dictionary.wdgt
+    ├── Movies.wdgt
+    ├── Stickies.wdgt
+    ├── Stocks.wdgt
+    ├── Tile Game.wdgt
+    ├── Unit Converter.wdgt
+    ├── Weather.wdgt
+    ├── Web Clip.wdgt
+    └── World Clock.wdgt
+
+252 directories

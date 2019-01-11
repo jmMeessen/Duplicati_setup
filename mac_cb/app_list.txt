@@ -1,0 +1,79 @@
+/Applications/
+├── App Store.app
+├── Automator.app
+├── Backup and Sync.app
+├── Books.app
+├── Byword.app
+├── Calculator.app
+├── Calendar.app
+├── Chess.app
+├── Clocker.app
+├── Contacts.app
+├── Dashboard.app
+├── Dictionary.app
+├── Docker.app
+├── Dropbox.app
+├── Evernote.app
+├── FaceTime.app
+├── FileZilla Pro.app
+├── Firefox.app
+├── Font Book.app
+├── Franz.app
+├── Freeplane.app
+├── GarageBand.app
+├── GoToMeeting
+├── GoToMeeting.app
+├── Google Chrome.app
+├── Home.app
+├── Image Capture.app
+├── IntelliJ IDEA CE.app
+├── IntelliJ IDEA.app
+├── Keynote.app
+├── Launchpad.app
+├── LibreOffice.app
+├── MOBIB Reader.app
+├── Mail.app
+├── Maps.app
+├── Master Key.app
+├── Messages.app
+├── Mission Control.app
+├── News.app
+├── Norton Security.app
+├── Notes.app
+├── Numbers.app
+├── Pages.app
+├── Photo Booth.app
+├── Photos.app
+├── Pocket.app
+├── Preview.app
+├── QuickTime Player.app
+├── RPVoIP.app
+├── Remember The Milk.app
+├── Reminders.app
+├── Safari.app
+├── Siri.app
+├── Skype.app
+├── Slack.app
+├── SourceTree.app
+├── Spotify.app
+├── Stickies.app
+├── Stocks.app
+├── System Preferences.app
+├── TeamViewer.app
+├── TextEdit.app
+├── Time Machine.app
+├── Tunnelblick.app
+├── Utilities
+├── VLC.app
+├── VirtualBox.app
+├── Visual Studio Code.app
+├── VoiceMemos.app
+├── WonTube Free Video Converter.app
+├── YubiKey Personalization Tool.app
+├── iCaching.app
+├── iMovie.app
+├── iTerm.app
+├── iTunes.app
+└── zoom.us.app
+
+76 directories
