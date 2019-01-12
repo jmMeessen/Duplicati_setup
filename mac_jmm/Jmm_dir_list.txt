@@ -78,4 +78,19 @@ To exclude
 193M	./Applications
 102G	./Movies
 7.0G	./work
+./duplicati/config
+.DS_Store
+*.dmg
 
+-*/.docker
+-*/VirtualBox VMs
+-*/.m2/repository
+-*/.vagrant.d
+-*/dockerImages
+-*/.Trash
+-*/Music
+-*/Library
+-*/Applications
+-*/Movies
+-*/work
+-*/duplicati/config
