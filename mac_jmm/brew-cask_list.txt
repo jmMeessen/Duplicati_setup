@@ -1,0 +1,2 @@
+==> Tapping homebrew/cask
+Tapped 1 command and 4096 casks (4,205 files, 4.2MB).

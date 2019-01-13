@@ -1,0 +1,384 @@
+/Library/
+├── ACS
+│   └── bin
+├── Application Support
+│   ├── App Store
+│   ├── Apple
+│   ├── ApplePushService
+│   ├── Chromium
+│   ├── CrashPlan
+│   ├── CrashReporter
+│   ├── Fitbit Connect
+│   ├── GPGTools
+│   ├── GarageBand
+│   ├── Google
+│   ├── Logic
+│   ├── Microsoft
+│   ├── Mozilla
+│   ├── Oracle
+│   ├── Plustek
+│   ├── ProApps
+│   ├── Script Editor
+│   ├── Symantec
+│   ├── Tunnelblick
+│   ├── VirtualBox
+│   ├── com.apple.TCC
+│   └── iLifeMediaBrowser
+├── Audio
+│   ├── Apple Loops
+│   ├── Apple Loops Index
+│   ├── Impulse Responses
+│   ├── MIDI Configurations
+│   ├── MIDI Devices
+│   ├── MIDI Drivers
+│   ├── MIDI Patch Names
+│   ├── Plug-Ins
+│   └── Sounds
+├── Automator
+│   ├── Add Attachments to Outlook Messages.action
+│   ├── Add Content to Word Documents.action
+│   ├── Add Document Properties Page to Word Documents.action
+│   ├── Add New Sheet to Workbooks.action
+│   ├── Add Table of Contents to Word Documents.action
+│   ├── Add Watermark to Word Documents.action
+│   ├── Apply Animation to PowerPoint Slide Parts.action
+│   ├── Apply Font Format Settings to Word Documents.action
+│   ├── AutoFormat Data in Excel Workbooks.action
+│   ├── Bring Word Documents to Front.action
+│   ├── Close Excel Workbooks.action
+│   ├── Close Outlook Items.action
+│   ├── Close PowerPoint Presentations.action
+│   ├── Close Word Documents.action
+│   ├── Combine Excel Files.action
+│   ├── Combine PowerPoint Presentations.action
+│   ├── Combine Word Documents.action
+│   ├── Compare Word Documents.action
+│   ├── Convert Format of Excel Files.action
+│   ├── Convert Format of PowerPoint Presentations.action
+│   ├── Convert PowerPoint Presentations to Movies.action
+│   ├── Convert Word Content Object to Text Object.caction
+│   ├── Copy Excel Workbook Content to the Clipboard.action
+│   ├── Copy PowerPoint Slides to the Clipboard.action
+│   ├── Copy Word Document Content to the Clipboard.action
+│   ├── Create List from Data in Workbook.action
+│   ├── Create New Excel Workbook.action
+│   ├── Create New Outlook Mail Message.action
+│   ├── Create New PowerPoint Presentation.action
+│   ├── Create New Word Document.action
+│   ├── Create PowerPoint Picture Slide Shows.action
+│   ├── Create Table from Data in Workbook.action
+│   ├── Delete Outlook Items.action
+│   ├── Find and Replace Text in Word Documents.action
+│   ├── Flag Word Documents for Follow Up.action
+│   ├── Forward Outlook Mail Messages.action
+│   ├── Get Content from Word Documents.action
+│   ├── Get Images from PowerPoint Slides.action
+│   ├── Get Images from Word Documents.action
+│   ├── Get Parent Presentations of Slides.action
+│   ├── Get Parent Workbooks.action
+│   ├── Get Selected Content from Excel Workbooks.action
+│   ├── Get Selected Content from Word Documents.action
+│   ├── Get Selected Outlook Items.action
+│   ├── Get Selected Text from Outlook Items.action
+│   ├── Get Text From Outlook Mail Messages.action
+│   ├── Get Text from Word Documents.action
+│   ├── Import Text Files to Excel Workbook.action
+│   ├── Insert Captions into Word Documents.action
+│   ├── Insert Content into Outlook Mail Messages.action
+│   ├── Insert Content into Word Documents.action
+│   ├── Insert New PowerPoint Slides.action
+│   ├── Mark Outlook Mail Message as a To Do Item.action
+│   ├── Office.definition
+│   ├── Open Excel Workbooks.action
+│   ├── Open Outlook Items.action
+│   ├── Open PowerPoint Presentations.action
+│   ├── Open Word Documents.action
+│   ├── Paste Clipboard Content into Excel Workbooks.action
+│   ├── Paste Clipboard Content into Outlook Items.action
+│   ├── Paste Clipboard Content into PowerPoint Presentations.action
+│   ├── Paste Clipboard Content into Word Documents.action
+│   ├── Play PowerPoint Slide Shows.action
+│   ├── Print Excel Workbooks.action
+│   ├── Print Outlook Messages.action
+│   ├── Print PowerPoint Presentations.action
+│   ├── Print Word Documents.action
+│   ├── Protect Word Documents.action
+│   ├── Quit Excel.action
+│   ├── Quit Outlook.action
+│   ├── Quit PowerPoint.action
+│   ├── Quit Word.action
+│   ├── Reply to Outlook Mail Messages.action
+│   ├── Save Excel Workbooks.action
+│   ├── Save Outlook Draft Messages.action
+│   ├── Save Outlook Items as Files.action
+│   ├── Save Outlook Messages as Files.action
+│   ├── Save PowerPoint Presentations.action
+│   ├── Save Word Documents.action
+│   ├── Search Outlook Items.action
+│   ├── Select Cells in Excel Workbooks.action
+│   ├── Select PowerPoint Slides.action
+│   ├── Send Outgoing Outlook Mail Messages.action
+│   ├── Set Category of Outlook Items.action
+│   ├── Set Document Settings.action
+│   ├── Set Excel Workbook Properties.action
+│   ├── Set Footer for PowerPoint Slides.action
+│   ├── Set Outlook Contact Properties.action
+│   ├── Set PowerPoint Slide Layout.action
+│   ├── Set PowerPoint Slide Transition Settings.action
+│   ├── Set Security Options for Word Documents.action
+│   ├── Set Text Case in Word Documents.action
+│   ├── Set Word Document Properties.action
+│   └── Sort Data in Excel Workbooks.action
+├── Belgium Identity Card
+│   ├── Licenses
+│   └── eID Middleware.app
+├── Caches
+│   ├── ColorSync
+│   ├── Desktop Pictures
+│   ├── com.apple.cloudkit
+│   └── com.apple.iconservices.store
+├── ColorPickers
+├── ColorSync
+│   ├── Profiles
+│   └── Scripts -> ../Scripts/ColorSync
+├── Components
+├── Compositions
+├── Contextual Menu Items
+├── CoreAnalytics
+├── CoreMediaIO
+│   └── Plug-Ins
+├── Desktop Pictures
+│   └── Solid Colors
+├── Developer
+│   └── CommandLineTools
+├── DirectoryServices
+│   └── PlugIns
+├── Documentation
+│   ├── Help
+│   ├── License.lpdf
+│   └── User Information.localized
+├── DropboxHelperTools
+│   └── Dropbox_u501
+├── Extensions
+│   ├── ACS6x.kext
+│   ├── ATTOCelerityFC8.kext
+│   ├── ATTOExpressSASHBA2.kext
+│   ├── ATTOExpressSASRAID2.kext
+│   ├── AppleRTL815XComposite109.kext
+│   ├── AppleRTL815XEthernet109.kext
+│   ├── ArcMSR.kext
+│   ├── CalDigitHDProDrv.kext
+│   ├── FTDIUSBSerialDriver.kext
+│   ├── HighPointIOP.kext
+│   ├── HighPointRR.kext
+│   ├── NortonForMac.kext
+│   ├── PromiseSTEX.kext
+│   ├── SoftRAID.kext
+│   ├── SymIPS.kext
+│   ├── SymInternetSecurity.kext
+│   └── SymXIPS.kext
+├── Filesystems
+│   └── NetFSPlugins
+├── Fonts
+│   └── Microsoft
+├── Fonts Disabled
+├── Frameworks
+│   ├── 91N.framework
+│   ├── IDEA.framework
+│   ├── ImageLib.framework
+│   ├── Libmacgpg.framework
+│   ├── Mono.framework
+│   ├── NyxAudioAnalysis.framework -> /System/Library/PrivateFrameworks/NyxAudioAnalysis.framework
+│   ├── PL_IL_PDF.framework
+│   ├── PL_IL_TIFF.framework
+│   ├── PluginManager.framework
+│   └── iTunesLibrary.framework -> /System/Library/Frameworks/iTunesLibrary.framework
+├── GPUBundles
+├── Google
+│   ├── Chrome
+│   └── GoogleSoftwareUpdate
+├── Graphics
+│   └── Quartz Composer Plug-Ins
+├── Image Capture
+│   ├── Automatic Tasks
+│   ├── Devices
+│   ├── Support
+│   ├── Supports
+│   ├── TWAIN Data Sources
+│   └── Tools
+├── Input Methods
+├── Internet Plug-Ins
+│   ├── Disabled Plug-Ins
+│   ├── GarminGpsControl.plugin
+│   ├── JavaAppletPlugin.plugin
+│   ├── MeetingJoinPlugin.plugin
+│   ├── SharePointBrowserPlugin.plugin
+│   ├── SharePointWebKitPlugin.webplugin
+│   ├── Silverlight.plugin
+│   ├── VascoCardReaderPlugin.plugin
+│   ├── googletalkbrowserplugin.plugin
+│   ├── nplastpass.plugin
+│   └── o1dbrowserplugin.plugin
+├── Java
+│   ├── Extensions
+│   └── JavaVirtualMachines
+├── Keyboard Layouts
+├── Keychains
+│   ├── SupplementalsAssets
+│   └── crls
+├── LaunchAgents
+├── LaunchDaemons
+├── Logs
+│   ├── CrashReporter
+│   ├── DiagnosticReports
+│   ├── Microsoft
+│   ├── Symantec
+│   └── Xsan
+├── Mail
+│   └── Bundles
+├── MessageTracer
+├── Messages
+│   └── PlugIns
+├── Modem Scripts
+│   ├── Bluetooth LAN Access.ccl
+│   ├── Farallon LAN:Modem PC Card.ccl
+│   ├── Farallon Netopia 56K MLPPP.ccl
+│   ├── Farallon Netopia 56K.ccl
+│   ├── Farallon Netopia 64K MLPPP.ccl
+│   ├── Farallon Netopia 64K.ccl
+│   ├── GV flex:V.90.ccl
+│   ├── GV x2:V.90.ccl
+│   ├── Generic Dialup.ccl
+│   ├── Generic GPRS.ccl
+│   ├── Hayes Accura 56K.ccl
+│   ├── Motorola BitSURFR 56K MLPPP.ccl
+│   ├── Motorola BitSURFR 56K.ccl
+│   ├── Motorola BitSURFR 64K MLPPP.ccl
+│   ├── Motorola BitSURFR 64K.ccl
+│   ├── MultiTech MT5600.ccl
+│   ├── MultiTech MT5634.ccl
+│   ├── MultiTech MTA128NT ML-PPP w:DBA.ccl
+│   ├── MultiTech MTA128NT ML-PPP.ccl
+│   ├── MultiTech MTA128NT PPP.ccl
+│   ├── MultiTech MTA128ST ML-PPP w:DBA.ccl
+│   ├── MultiTech MTA128ST ML-PPP.ccl
+│   ├── MultiTech MTA128ST PPP.ccl
+│   ├── Null Modem 115200.ccl
+│   ├── Null Modem 19200.ccl
+│   ├── Null Modem 57600.ccl
+│   ├── Null Modem 9600.ccl
+│   ├── Sprint PCS Vision.ccl
+│   ├── Supra V.90.ccl
+│   ├── Vodafone VC701SI.ccl
+│   ├── WWAN.ccl
+│   ├── Zoom Bluetooth Modem (v.34).ccl
+│   ├── Zoom Bluetooth Modem (v.90).ccl
+│   ├── Zoom Universal (115k).ccl
+│   └── Zoom V-Series.ccl
+├── OpenDirectory
+│   ├── Mappings
+│   ├── Modules
+│   └── Templates
+├── PDF Services
+│   ├── Add to Apple Books -> /Applications/Books.app
+│   ├── Save to Web Receipts.pdfworkflow
+│   ├── Save to iCloud Drive.pdfworkflow
+│   ├── Send in Mail -> /Applications/Mail.app
+│   └── Send via Messages -> /Applications/Messages.app
+├── Perl
+│   └── 5.18
+├── PreferencePanes
+│   ├── GPGPreferences.prefPane
+│   └── JavaControlPanel.prefPane -> /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/lib/deploy/JavaControlPanel.prefPane
+├── Preferences
+│   ├── Audio
+│   ├── DirectoryService
+│   ├── Logging
+│   ├── OpenDirectory
+│   ├── SystemConfiguration
+│   └── Xsan
+├── Printers
+│   ├── Brother
+│   ├── Canon
+│   ├── EPSON
+│   ├── Icons
+│   └── PPDs
+├── PrivilegedHelperTools
+├── Python
+│   ├── 2.6
+│   └── 2.7
+├── QuickLook
+│   ├── iBooksAuthor.qlgenerator
+│   └── iWork.qlgenerator
+├── QuickTime
+│   ├── AppleIntermediateCodec.component
+│   └── AppleMPEG2Codec.component
+├── Receipts
+│   └── db
+├── Ruby
+│   ├── Gems
+│   └── Site
+├── Sandbox
+│   └── Profiles
+├── Screen Savers
+│   └── Default Collections
+├── ScriptingAdditions
+├── Scripts
+│   ├── ColorSync
+│   ├── Folder Action Scripts
+│   ├── Folder Actions
+│   ├── Font Book
+│   ├── Printing Scripts
+│   ├── Script Editor Scripts
+│   ├── UI Element Scripts
+│   └── VoiceOver
+├── Security
+│   ├── SecurityAgentPlugins
+│   ├── Trust Settings
+│   └── tokend
+├── Services
+│   ├── GPGServices.service
+│   └── Norton for Mac.service
+├── Speech
+│   └── Synthesizers
+├── Spotlight
+│   ├── iBooksAuthor.mdimporter
+│   └── iWork.mdimporter
+├── StagedExtensions
+│   ├── Library
+│   └── System
+├── StartupItems
+├── SystemMigration
+│   ├── History
+│   └── Queue
+├── SystemProfiler
+├── Updates
+├── User Pictures
+│   ├── Animals
+│   ├── Flowers
+│   ├── Fun
+│   ├── Instruments
+│   ├── Nature
+│   └── Sports
+├── Video
+│   ├── Plug-Ins
+│   └── Professional Video Workflow Plug-Ins
+├── WebServer
+│   ├── CGI-Executables
+│   ├── Documents
+│   └── share
+└── Widgets
+    ├── Calculator.wdgt
+    ├── Calendar.wdgt
+    ├── Contacts.wdgt
+    ├── Dictionary.wdgt
+    ├── Movies.wdgt
+    ├── Stickies.wdgt
+    ├── Stocks.wdgt
+    ├── Tile Game.wdgt
+    ├── Unit Converter.wdgt
+    ├── Weather.wdgt
+    ├── Web Clip.wdgt
+    └── World Clock.wdgt
+
+381 directories

@@ -1,0 +1,126 @@
+/Applications/
+├── 4K Video Downloader.app
+├── 4K YouTube to MP3.app
+├── Android File Transfer.app
+├── App Store.app
+├── Atom.app
+├── Automator.app
+├── Books.app
+├── Byword.app
+├── CHM Reader.app
+├── Calculator.app
+├── Calendar.app
+├── Chess.app
+├── Chromecast.app
+├── Clocker.app
+├── Contacts.app
+├── CrossOver.app
+├── Cyberduck.app
+├── Dashboard.app
+├── DeDRM.app
+├── Dia.app
+├── Dictionary.app
+├── Digested.app
+├── Docker
+├── Docker.app
+├── Dropbox.app
+├── Duplicati.app
+├── Evernote.app
+├── FaceTime.app
+├── FileZilla Pro.app
+├── FineReader.app
+├── Firefox.app
+├── Fitbit Connect.app
+├── Font Book.app
+├── Freeplane.app
+├── GIMP.app
+├── GPG Keychain.app
+├── GarageBand.app
+├── Garmin BaseCamp.app
+├── Garmin Express.app
+├── Garmin MapInstall.app
+├── Garmin MapManager.app
+├── Garmin WebUpdater.app
+├── GitX.app
+├── GoToMeeting
+├── Google Chrome.app
+├── Graphviz.app
+├── HermesJMS
+├── HipChat.app
+├── Home.app
+├── Image Capture.app
+├── IntelliJ IDEA 14.app
+├── IntelliJ IDEA 15.app
+├── IntelliJ IDEA.app
+├── JaVaWa GMTK.app
+├── KeePass-2.30
+├── Keynote.app
+├── LastPass.app
+├── Launchpad.app
+├── LibreOffice.app
+├── LoadUI 2.6.8.app
+├── Mail.app
+├── Maps.app
+├── Master Key.app
+├── Messages.app
+├── Microsoft Lync.app
+├── Microsoft Office 2011
+├── Microsoft Silverlight -> /Library/Internet Plug-Ins/Silverlight.plugin/Contents/Resources/Silverlight Preferences.app
+├── Mission Control.app
+├── My Net.app
+├── News.app
+├── Norton Security.app
+├── Notes.app
+├── Numbers.app
+├── Pages.app
+├── Photo Booth.app
+├── Photos.app
+├── Plustek
+├── Preview.app
+├── QuickTime Player.app
+├── RLinkToolbox.app
+├── Remember The Milk.app
+├── Reminders.app
+├── Safari.app
+├── ScanTailor.app
+├── Siri.app
+├── Skitch.app
+├── Skype.app
+├── Slack.app
+├── SoapUI-5.0.0.app
+├── SourceTree.app
+├── Spotify.app
+├── Stickies.app
+├── Stocks.app
+├── Sublime Text.app
+├── System Preferences.app
+├── TeamViewer.app
+├── TextEdit.app
+├── The Unarchiver.app
+├── Time Machine.app
+├── Tunnelblick.app
+├── Utilities
+├── VLC.app
+├── VirtualBox.app
+├── Visual Studio Code.app
+├── VoiceMemos.app
+├── WhatsApp.app
+├── Wireless Network Utility.app
+├── Xcode.app
+├── YubiKey Personalization Tool.app
+├── Zenmap.app
+├── Zotero.app
+├── boot2docker.app
+├── cache
+├── calibre.app
+├── devolo
+├── eID Viewer.app
+├── iCaching.app
+├── iMovie.app
+├── iPhoto.app
+├── iTerm.app
+├── iTunes.app
+├── pwSafe.app
+└── x2goclient.app
+
+123 directories
