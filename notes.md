@@ -6,3 +6,4 @@
 - `docker logs -f duplicati`
 - `docker stop duplicati`
 - `docker rm duplicati`
+- `docker rmi linuxserver/duplicati`
