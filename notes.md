@@ -1,6 +1,6 @@
 # Aide mémoire Duplicati
 
-- `docker create --name=duplicati -v /Users/jmm:/source -v ~/duplicati/config:/config -p 8200:8200 linuxserver/duplicati`
+- `./create_duplicati.sh`
 - `docker start duplicati`
 - `open http://localhost:8200`
 - `docker logs -f duplicati`
