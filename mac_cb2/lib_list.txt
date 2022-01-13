@@ -1,0 +1,267 @@
+/Library/
+├── Apple
+│   ├── Library
+│   ├── System
+│   └── usr
+├── Application Support
+│   ├── App Store
+│   ├── Apple
+│   ├── ApplePushService
+│   ├── BTServer
+│   ├── CrashReporter
+│   ├── GarageBand
+│   ├── Google
+│   ├── Intego
+│   ├── Logic
+│   ├── Microsoft
+│   ├── ProApps
+│   ├── Script Editor
+│   ├── com.apple.TCC
+│   ├── iLifeMediaBrowser
+│   └── zoom.us
+├── Audio
+│   ├── Apple Loops
+│   ├── Apple Loops Index
+│   ├── MIDI Configurations
+│   ├── MIDI Devices
+│   ├── MIDI Drivers
+│   ├── MIDI Patch Names
+│   ├── Plug-Ins
+│   └── Sounds
+├── Bluetooth
+│   └── Library
+├── Caches
+│   ├── ColorSync
+│   ├── Desktop Pictures
+│   ├── com.apple.iconservices.store
+│   ├── com.intego.netbarrier
+│   └── com.intego.virusbarrier
+├── Catacomb
+│   └── 99051CF7-FB0A-560F-A7CB-86602C7D0867
+├── ColorPickers
+├── ColorSync
+│   └── Profiles
+├── Components
+├── Compositions
+├── Contextual Menu Items
+├── CoreAnalytics
+├── CoreMediaIO
+│   └── Plug-Ins
+├── Developer
+│   └── CommandLineTools
+├── DirectoryServices
+│   └── PlugIns
+├── Documentation
+│   ├── Help
+│   └── License.lpdf
+├── DriverExtensions
+├── DropboxHelperTools
+├── Extensions
+│   ├── HighPointIOP.kext
+│   ├── HighPointRR.kext
+│   ├── JabraUSB.kext
+│   ├── SoftRAID.kext
+│   └── dfsfuse.kext
+├── Filesystems
+│   └── NetFSPlugins
+├── Fonts
+├── Frameworks
+│   ├── CoreRepairCore.framework
+│   ├── CoreRepairKit.framework
+│   ├── IntegoiCalFramework.framework
+│   ├── NetUpdateShared.framework
+│   └── iTunesLibrary.framework -> /System/Library/Frameworks/iTunesLibrary.framework
+├── GPUBundles
+├── Google
+│   └── GoogleSoftwareUpdate
+├── Graphics
+│   └── Quartz Composer Plug-Ins
+├── Image Capture
+│   ├── Automatic Tasks
+│   ├── Devices
+│   ├── Support
+│   ├── Supports
+│   ├── TWAIN Data Sources
+│   └── Tools
+├── Input Methods
+├── InstallerSandboxes
+├── Intego
+│   ├── IM_ObjectiveMetrics.framework
+│   ├── Intego Uninstaller.app
+│   ├── Support
+│   ├── TaskManager
+│   ├── commonservices.bundle
+│   ├── netbarrier.bundle
+│   ├── netupdated.bundle
+│   └── virusbarrier.bundle
+├── Internet Plug-Ins
+├── Java
+│   ├── Extensions
+│   └── JavaVirtualMachines
+├── KernelCollections
+├── Keyboard Layouts
+├── Keychains
+├── LaunchAgents
+├── LaunchDaemons
+├── Logs
+│   ├── DiagnosticReports
+│   └── Xsan
+├── Modem Scripts
+│   ├── Bluetooth LAN Access.ccl
+│   ├── Farallon LAN:Modem PC Card.ccl
+│   ├── Farallon Netopia 56K MLPPP.ccl
+│   ├── Farallon Netopia 56K.ccl
+│   ├── Farallon Netopia 64K MLPPP.ccl
+│   ├── Farallon Netopia 64K.ccl
+│   ├── GV flex:V.90.ccl
+│   ├── GV x2:V.90.ccl
+│   ├── Generic Dialup.ccl
+│   ├── Generic GPRS.ccl
+│   ├── Hayes Accura 56K.ccl
+│   ├── Motorola BitSURFR 56K MLPPP.ccl
+│   ├── Motorola BitSURFR 56K.ccl
+│   ├── Motorola BitSURFR 64K MLPPP.ccl
+│   ├── Motorola BitSURFR 64K.ccl
+│   ├── MultiTech MT5600.ccl
+│   ├── MultiTech MT5634.ccl
+│   ├── MultiTech MTA128NT ML-PPP w:DBA.ccl
+│   ├── MultiTech MTA128NT ML-PPP.ccl
+│   ├── MultiTech MTA128NT PPP.ccl
+│   ├── MultiTech MTA128ST ML-PPP w:DBA.ccl
+│   ├── MultiTech MTA128ST ML-PPP.ccl
+│   ├── MultiTech MTA128ST PPP.ccl
+│   ├── Null Modem 115200.ccl
+│   ├── Null Modem 19200.ccl
+│   ├── Null Modem 57600.ccl
+│   ├── Null Modem 9600.ccl
+│   ├── Sprint PCS Vision.ccl
+│   ├── Supra V.90.ccl
+│   ├── Vodafone VC701SI.ccl
+│   ├── Zoom Bluetooth Modem (v.34).ccl
+│   ├── Zoom Bluetooth Modem (v.90).ccl
+│   ├── Zoom Universal (115k).ccl
+│   └── Zoom V-Series.ccl
+├── OSAnalytics
+│   ├── Diagnostics
+│   └── Preferences
+├── OpenDirectory
+│   ├── Mappings
+│   ├── Modules
+│   └── Templates
+├── Perl
+│   ├── 5.18
+│   └── 5.30
+├── PreferencePanes
+├── Preferences
+│   ├── Audio
+│   ├── DirectoryService
+│   ├── Intego
+│   ├── Logging
+│   ├── OpenDirectory
+│   ├── SystemConfiguration
+│   ├── Xsan
+│   └── com.apple.fsplaceholder
+├── Printers
+│   ├── Brother
+│   ├── Canon
+│   ├── EPSON
+│   ├── Icons
+│   └── PPDs
+├── PrivilegedHelperTools
+│   └── NetUpdateAgent.app
+├── Python
+│   └── 2.7
+├── QuickLook
+├── Receipts
+│   └── db
+├── Ruby
+│   ├── Gems
+│   └── Site
+├── Sandbox
+│   └── Profiles
+├── Screen Savers
+├── ScriptingAdditions
+├── Scripts
+│   ├── ColorSync
+│   ├── Folder Action Scripts
+│   ├── Folder Actions
+│   ├── Font Book
+│   ├── Printing Scripts
+│   ├── Script Editor Scripts
+│   ├── UI Element Scripts
+│   └── VoiceOver
+├── Security
+│   ├── SecurityAgentPlugins
+│   └── Trust Settings
+├── Speech
+│   └── Synthesizers
+├── Spotlight
+│   └── iBooksAuthor.mdimporter
+├── StagedDriverExtensions
+├── StagedExtensions
+│   └── Library
+├── StartupItems
+├── SystemExtensions
+│   └── 5DECA07A-772F-4CD2-8472-F1A7B61C22D8
+├── SystemMigration
+│   ├── History
+│   └── Queue
+├── SystemProfiler
+├── Updates
+├── User Pictures
+│   ├── Animals
+│   ├── Flowers
+│   ├── Fun
+│   ├── Instruments
+│   ├── Nature
+│   └── Sports
+├── User Template
+│   ├── Dutch.lproj
+│   ├── English.lproj
+│   ├── French.lproj
+│   ├── German.lproj
+│   ├── Italian.lproj
+│   ├── Japanese.lproj
+│   ├── Non_localized
+│   ├── Spanish.lproj
+│   ├── ar.lproj
+│   ├── ca.lproj
+│   ├── cs.lproj
+│   ├── da.lproj
+│   ├── el.lproj
+│   ├── en_AU.lproj
+│   ├── en_GB.lproj
+│   ├── es_419.lproj
+│   ├── fi.lproj
+│   ├── fr_CA.lproj
+│   ├── he.lproj
+│   ├── hi.lproj
+│   ├── hr.lproj
+│   ├── hu.lproj
+│   ├── id.lproj
+│   ├── ko.lproj
+│   ├── ms.lproj
+│   ├── no.lproj
+│   ├── pl.lproj
+│   ├── pt.lproj
+│   ├── pt_PT.lproj
+│   ├── ro.lproj
+│   ├── ru.lproj
+│   ├── sk.lproj
+│   ├── sv.lproj
+│   ├── th.lproj
+│   ├── tr.lproj
+│   ├── uk.lproj
+│   ├── vi.lproj
+│   ├── zh_CN.lproj
+│   ├── zh_HK.lproj
+│   └── zh_TW.lproj
+├── Video
+│   ├── Plug-Ins
+│   └── Professional Video Workflow Plug-Ins
+└── WebServer
+    ├── CGI-Executables
+    ├── Documents
+    └── share
+
+264 directories

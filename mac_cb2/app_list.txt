@@ -1,0 +1,37 @@
+/Applications/
+├── Clocker.app
+├── Discord.app
+├── Docker.app
+├── Dropbox.app
+├── Element.app
+├── Evernote.app
+├── Firefox.app
+├── Freeplane.app
+├── Freeze.app
+├── GIMP-2.10.app
+├── Google Chrome.app
+├── Infra.app
+├── Intego
+├── IntelliJ IDEA CE.app
+├── Jabra Direct.app
+├── Jettison.app
+├── Kindle.app
+├── LibreOffice.app
+├── Microsoft Teams.app
+├── Safari.app
+├── Signal.app
+├── Slack.app
+├── Sourcetree.app
+├── Spotify.app
+├── Tunnelblick.app
+├── Utilities
+├── VLC.app
+├── Visual Studio Code.app
+├── XnConvert.app
+├── calibre.app
+├── iMovie.app
+├── iTerm.app
+├── qrq.app
+└── zoom.us.app
+
+34 directories
